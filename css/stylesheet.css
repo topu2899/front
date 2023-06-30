@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'BPG Glaho WEB Caps';
+    src: url('../fonts/BPGGlahoWEBCaps.eot');
+    src: url('../fonts/BPGGlahoWEBCaps.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BPGGlahoWEBCaps.woff2') format('woff2'),
+        url('../fonts/BPGGlahoWEBCaps.woff') format('woff'),
+        url('../fonts/BPGGlahoWEBCaps.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BPG Nino Mkhedruli Book';
+    src: url('../fonts/BPGNinoMkhedruliBook.eot');
+    src: url('../fonts/BPGNinoMkhedruliBook.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BPGNinoMkhedruliBook.woff2') format('woff2'),
+        url('../fonts/BPGNinoMkhedruliBook.woff') format('woff'),
+        url('../fonts/BPGNinoMkhedruliBook.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
